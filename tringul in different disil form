@@ -1,0 +1,121 @@
+#include <stdio.h>
+
+int main()
+{
+    int i,j;
+    i=5;
+    while(i>0)
+    {
+        j=5;
+        while(j>=i)
+         {
+     printf("%d\t",j); 
+     j--;
+    }
+    printf("\n");
+    i--;
+    }
+    /*new progrm*/
+    
+    printf("\n\n\n");
+    i=1;
+    while(i<=5)
+    {
+        j=1;
+        while(j<=i)
+         {
+     printf("%d\t",j); 
+     j++;
+    }
+    printf("\n");
+    i++;
+    }    
+    printf("\n\n\n");
+    /* new progrm*/
+    i=5;
+    while(i>0)
+    {
+        j=5;
+        while(j>=i)
+         {
+     printf("%d\t",i); 
+     j--;
+    }
+    printf("\n");
+    i--;
+    }
+    /*new progrm*/
+    
+    printf("\n\n\n");
+    i=1;
+    while(i<=5)
+    {
+        j=1;
+        while(j<=i)
+         {
+     printf("%d\t",i); 
+     j++;
+    }
+    printf("\n");
+    i++;
+    }
+    printf("\n\n\n");
+    /* new progrm*/
+    i=1;
+    while(i>=5)
+    {
+        j=5;
+        while(j>=i)
+         {
+     printf("%d\t",i); 
+     j--;
+    }
+    printf("\n");
+    i++;
+    }
+    /*new progrm*/
+    
+    printf("\n\n\n");
+    i=5;
+    while(i>=1)
+    {
+        j=5;
+        while(j>=i)
+         {
+     printf("%d\t",i); 
+     j--;
+    }
+    printf("\n");
+    i--;
+    }
+    printf("\n\n\n");
+    /* new progrm*/
+    i=1;
+    while(i<=5)
+    {
+        j=i;
+        while(j>=1)
+         {
+     printf("%d\t",j); 
+     j--;
+    }
+    printf("\n");
+    i++;
+    }
+    /*new progrm*/
+    
+    printf("\n\n\n");
+    i=5;
+    while(i>=1)
+    {
+        j=i;
+        while(j>=1)
+         {
+     printf("%d\t",j); 
+     j--;
+    }
+    printf("\n");
+    i--;
+    }
+    return 0;
+}
