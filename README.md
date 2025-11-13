@@ -49,5 +49,7 @@ Tips on transitioning from traditional development to modern full-stack practice
 Feel free to reach out via:
 
 Email: umutoniuwimpuhwe@gmail.com
+
 Instagram: sangelToni
+
 GitHub: Uwimpuhwe Umutoni Ange
