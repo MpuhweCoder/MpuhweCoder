@@ -1,55 +1,61 @@
 👋 About Me
 
 
-I’m a Full Stack Software Developer with extensive experience in various projects . I’m passionate about building scalable web applications that enhance operational efficiency, improve user experience, and incorporate effective design principles.
+I’m a Full Stack Software Developer with extensive experience across diverse projects. I’m passionate about building scalable web applications that enhance operational efficiency, improve user experience, and incorporate effective design principles.
+
+Currently, I’m pursuing a Bachelor of Computer Applications (BCA) at RCSS, and I’ve already launched a live website for ICSW Kerala—an achievement that reflects my commitment to real-world impact.
 
 🔭 I’m Currently Working On
 
 
-Enhancing DFMS: Improving user interfaces and user experiences based on feedback from military personnel.
-CMIS Development: Creating a new module to streamline data management while focusing on intuitive design and usability.
-Automated Testing: Implementing testing frameworks to ensure the reliability and maintainability of existing projects.
+Automated Testing: Integrating testing frameworks to boost the reliability, maintainability, and scalability of existing systems.
+
+Student Tracker App (in progress): Designing a mobile/web application to help parents and colleges monitor student attendance, location, and academic progress in real time.
+
+Software Market Management Tool (prototype stage): Building a centralized tool to manage departmental software needs, procurement, and usage analytics across multiple units.
 
 
-🌱 I’m Currently Learning
+I’m Currently Learning
 
+UI/UX Design: Exploring Figma and Adobe XD to sharpen my front-end design skills.
 
-UI/UX Design: Exploring design tools like Figma and Adobe XD to improve my front-end design skills.
-Advanced Cloud Computing: Focusing on AWS and Azure for scalable applications.
-Modern Front-End Frameworks: Delving into React and Vue.js for building responsive interfaces.
+Advanced Cloud Computing: Deepening my knowledge of AWS and Azure for scalable deployments.
 
+Modern Front-End Frameworks: Working with React and Vue.js to build responsive, dynamic interfaces.
+
+Data Analysis & Visualization: Learning to turn raw data into actionable insights using Python and visualization tools.
 
 👯 I’m Looking to Collaborate On
 
+Open Source Projects: Especially those focused on military or governmental applications with user-centered design.
 
-Open Source Projects: Particularly those focused on military or governmental applications with a strong emphasis on user-centered design.
-Design Initiatives: Collaborating on workshops that integrate design thinking into software development.
-Community Development: Projects leveraging technology for social impact in Rwanda, especially in design accessibility.
+Design Initiatives: Workshops that integrate design thinking into software development.
 
+Community Development: Tech projects that promote social impact and accessibility in Rwanda.
 
 🤔 I’m Looking for Help With
 
+Design Best Practices: Effective UI/UX principles and workflows.
 
-Design Best Practices: Seeking guidance on effective UI/UX design principles.
-Microservices Architecture: Exploring the best practices for large-scale applications.
-Networking: Connecting with professionals in the tech and design communities for collaboration and mentorship.
+Microservices Architecture: Scalable patterns for large applications.
 
+Networking: Connecting with professionals in tech and design for mentorship and collaboration.
 
 💬 Ask Me About
 
-
 Strategies for integrating user feedback into software design.
-data Analyis and desidgning
-Tips on transitioning from traditional development to modern full-stack practices with a design focus.
 
+Tips for transitioning from traditional development to modern full-stack practices.
+
+Data analysis and visualization for operational decision-making.
 
 📫 How to Reach Me
 
 
-Feel free to reach out via:
+📧 Email: umutoniuwimpuhwe@gmail.com
 
-Email: umutoniuwimpuhwe@gmail.com
+📸 Instagram: @sangelToni
 
-Instagram: sangelToni
+💻 GitHub: Uwimpuhwe Umutoni Ange
 
-GitHub: Uwimpuhwe Umutoni Ange
+Would you like help turning this into a GitHub profile README or adding visuals like badges and project links?
