@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MpuhweCoder
 - 👀 I’m interested in ..software development
 - 🌱 I’m currently learning .Hons bachelor of computer Application.
-- 💞️ I’m looking to collaborate on ..front and back end programming.
+- 💞️ I’m looking to collaborate on ..full stack programming.
 - 📫 How to reach me text to me 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
